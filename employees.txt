@@ -1,0 +1,20 @@
+First Name: olha
+Last Name: bachurina
+Position: manager
+Salary: 10000
+-------------------
+First Name: aleksey
+Last Name: pavlenko
+Position: director
+Salary: 10000
+-------------------
+First Name: anna
+Last Name: gogylenko
+Position: admin
+Salary: 12000
+-------------------
+First Name: igor
+Last Name: potun
+Position: admin
+Salary: 7500
+-------------------
